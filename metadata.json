@@ -1,0 +1,5 @@
+{
+  "name": "Room Navigator",
+  "description": "Instantly expand campus room codes into building names, floors, and room numbers.",
+  "requestFramePermissions": []
+}
