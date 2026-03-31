@@ -39,8 +39,7 @@ It reduces anxiety during the first weeks of school by translating confusing cod
 | Hosting     | Vercel |
 
 ## 📱 PWA Installation
-Android (Chrome): Open app → Add to Home Screen → Install
-iOS (Safari): Open app → Share → Add to Home Screen → Install
+Android (Chrome) & iOS (Safari): Open app → Use the link → Free to use
 
 ## ⚖️ License
 Academic Integrity & Copyright Notice
